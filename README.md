@@ -1,1 +1,1 @@
-Please refer https://zoomvideo.atlassian.net/wiki/spaces/BI/pages/2194181395/Introduction+to+Selenium+Test+Automation+Framework for details 
+Please refer https://afsalbacker.medium.com/introduction-to-selenium-test-automation-41613f4274a for details 
