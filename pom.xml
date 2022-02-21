@@ -3,45 +3,14 @@
   <groupId>E2EAutomation</groupId>
   <artifactId>E2EAutomation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
 
-
- 
-  
   <dependencies>
-
-    <dependency>
-        <groupId>org.apache.httpcomponents</groupId>
-        <artifactId>httpclient</artifactId>
-        <version>4.5.13</version>
-    </dependency>
-
-
-    <dependency>
-        <groupId>org.json</groupId>
-        <artifactId>json</artifactId>
-        <version>20210307</version>
-    </dependency>
 
     <dependency>
         <groupId>org.testng</groupId>
         <artifactId>testng</artifactId>
         <version>7.4.0</version>
     </dependency>
-
-    <dependency>
-        <groupId>com.googlecode.json-simple</groupId>
-        <artifactId>json-simple</artifactId>
-        <version>1.1</version>
-    </dependency>
-
-
-    <dependency>
-        <groupId>io.rest-assured</groupId>
-        <artifactId>rest-assured</artifactId>
-        <version>4.3.3</version>
-    </dependency>
-
 
     <dependency>
         <groupId>org.apache.logging.log4j</groupId>
@@ -53,12 +22,6 @@
         <groupId>org.apache.logging.log4j</groupId>
         <artifactId>log4j-core</artifactId>
         <version>2.14.1</version>
-    </dependency>
-
-    <dependency>
-        <groupId>org.apache.poi</groupId>
-        <artifactId>poi-ooxml</artifactId>
-        <version>5.0.0</version>
     </dependency>
 
     <dependency>
@@ -90,13 +53,6 @@
         <artifactId>webdrivermanager</artifactId>
         <version>4.4.3</version>
     </dependency>
-
-    <dependency>
-        <groupId>com.fasterxml.jackson.core</groupId>
-        <artifactId>jackson-databind</artifactId>
-        <version>2.12.3</version>
-    </dependency>
-
     
     <dependency>
         <groupId>javax.annotation</groupId>
